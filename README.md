@@ -1,4 +1,4 @@
-# pyotrch_semantic_segmentation
+# pytorch_semantic_segmentation
 Semantic Segmentation with PyTorch
 
 This ipynb is a simple pytorch semantic segmentation.
